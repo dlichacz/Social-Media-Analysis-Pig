@@ -22,3 +22,8 @@ MostPopularHashtags.pig
 -------------
 
 This script file will find the top 5 hashtags from full_text.txt.  For this example, a hashtag is defined to be any string that starts with '#' and contains numbers, letters or underscores.
+
+MostMobileTweeter.pig
+-------------
+
+This script file will find the user that tweeted from the greatest number of locations, i.e. the greatest number of distinct latitude and longitude pairs.
